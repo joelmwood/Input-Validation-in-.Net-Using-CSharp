@@ -1,0 +1,6 @@
+E:\UOP\POS409.NetII\WoodWeek5\InputValidation\InputValidation\bin\Debug\InputValidation.exe.config
+E:\UOP\POS409.NetII\WoodWeek5\InputValidation\InputValidation\bin\Debug\InputValidation.exe
+E:\UOP\POS409.NetII\WoodWeek5\InputValidation\InputValidation\bin\Debug\InputValidation.pdb
+E:\UOP\POS409.NetII\WoodWeek5\InputValidation\InputValidation\obj\Debug\InputValidation.csprojResolveAssemblyReference.cache
+E:\UOP\POS409.NetII\WoodWeek5\InputValidation\InputValidation\obj\Debug\InputValidation.exe
+E:\UOP\POS409.NetII\WoodWeek5\InputValidation\InputValidation\obj\Debug\InputValidation.pdb
